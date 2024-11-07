@@ -1,0 +1,9 @@
+This app is a character builder for TTRPGs, such as Dungeons and Dragons
+
+Click the 'create character' button to get started creating a character.
+Your race choice will affect your characters stat scores - visit dndbeyond.com
+for more information.
+
+More customizability features will be added soon.
+
+https://github.com/shby3
